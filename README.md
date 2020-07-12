@@ -1,1 +1,8 @@
-# calc
+# Team Size Recommendar
+
+Building a best of the breed Data Science team can be a very exciting and a challenging endeavor. Often Leaders will look for like businesses and try to emulate a commpetitor without really understanding the needs and environmental parameters that drive organization design.
+
+This code is a simple hueristics based recommendation system of roles, team size and cost based on expertise gained from senior management roles.
+
+Some interesting references:
+- [Building an effective analytics organization](https://www.mckinsey.com/industries/financial-services/our-insights/building-an-effective-analytics-organization "McKinsey Quaterly")
