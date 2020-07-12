@@ -6,3 +6,5 @@ This code is a simple hueristics based recommendation system of roles, team size
 
 Some interesting references:
 - [Building an effective analytics organization](https://www.mckinsey.com/industries/financial-services/our-insights/building-an-effective-analytics-organization "McKinsey Quaterly")
+- [Breaking Away: The secrets to scaling analytics](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/breaking-away-the-secrets-to-scaling-analytics "Mckinse Quaterly")
+
